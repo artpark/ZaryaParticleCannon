@@ -6,7 +6,7 @@ This was a group project for CMPM 164 at UCSC.
 * [Presentation]()
 * [Write-up]()
 
-CMPM 164: Game Engines
-Art Parkeenvincha
-Terence So
-Alfred Lam
+CMPM 164: Game Engines  
+Art Parkeenvincha  
+Terence So  
+Alfred Lam  
